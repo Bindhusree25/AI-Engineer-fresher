@@ -1,0 +1,4 @@
+sender,subject,body
+alice@example.com,Help with login,I cannot login since yesterday.
+bob@example.com,Query about payment,Can you clarify my last invoice?
+carol@example.com,Feature request,Would love to see a dark mode option.
